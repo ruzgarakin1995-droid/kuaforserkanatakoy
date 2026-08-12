@@ -68,9 +68,8 @@ export function BeautyHeader() {
           <Link href="/hikayemiz" className="hover:text-[#D4A373] transition-colors">Hikayemiz</Link>
         </nav>
 
-        {/* Brand Logo */}
         <Link href="/" className={`absolute left-1/2 -translate-x-1/2 flex flex-col items-center justify-center z-[60] ${textColor} transition-colors duration-500`}>
-          <span className="text-4xl md:text-5xl font-handwriting font-normal tracking-wide">Kuaför Serkan</span>
+          <span className="text-4xl md:text-5xl font-handwriting font-normal tracking-wide whitespace-nowrap">Kuaför Serkan</span>
           <span className="text-[9px] font-sans tracking-[0.3em] uppercase opacity-70 mt-1">Ataköy</span>
         </Link>
 
