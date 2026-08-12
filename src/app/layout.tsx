@@ -25,8 +25,8 @@ const greatVibes = Great_Vibes({
 });
 
 export const metadata: Metadata = {
-  title: "Kuaför Serkan Ataköy",
-  description: "Saç tasarımı, protez tırnak, profesyonel manikür & pedikür ve ipek kirpik uygulamaları",
+  title: "Kuaför Serkan Ataköy | Saç Tasarım & Güzellik Merkezi",
+  description: "Ataköy'ün kalbinde; profesyonel saç tasarımı, protez tırnak, manikür, pedikür ve ipek kirpik uygulamalarıyla lüks bir güzellik deneyimi yaşayın.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
